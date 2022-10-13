@@ -1,5 +1,4 @@
 # demo-spring-react-example-v2: dsre-v2
-
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-sophiacheng01/branch/main/graph/badge.svg?token=4IH4I527X8)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-sophiacheng01)
 
 Storybook is here:
