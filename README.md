@@ -2,8 +2,9 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-sophiacheng01/branch/main/graph/badge.svg?token=4IH4I527X8)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-sophiacheng01)
 
 Storybook is here:
-* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
-* QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
+
+Production: https://ucsb-cs156-f22.github.io/jpa03-sophiacheng01-docs/
+QA: https://ucsb-cs156-f22.github.io/jpa03-sophiacheng01-docs-qa/
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
